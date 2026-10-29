@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "date": "2026-10-29",
-  "notes": "Nuevo overlay Todo en uno: todo en una sola fuente, cada parte se activa o desactiva y se mueve por separado\nEn el juego: botón para copiar el código de conexión",
+  "notes": "Precio de lanzamiento: 12 USD el primer mes para los 10 primeros, luego 15 USD/mes. Admin: eventos automaticos (rachas, fiesta y gigante cuando no hay regalos) que aprenden que funciona. El juego avisa cuando se acaba la prueba.",
   "url": "https://github.com/cristiancordova1207/Fashion-Show-Realease/raw/main/Roblox-Fashion-Show.exe"
 }
