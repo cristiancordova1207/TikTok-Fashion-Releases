@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "date": "2026-10-29",
-  "notes": "Cinemático más largo: la cámara sigue a quien desfila casi todo el recorrido\n20 segundos entre cinemáticos para que no se pisen\nEn el juego: guarda hasta 3 posiciones de la cámara libre (pestaña Cámara)\nEn el juego: escenario al azar durante el modo fiesta y botones de 10/20/30/60 s",
+  "notes": "Nuevo overlay Todo en uno: todo en una sola fuente, cada parte se activa o desactiva y se mueve por separado\nEn el juego: botón para copiar el código de conexión",
   "url": "https://github.com/cristiancordova1207/Fashion-Show-Realease/raw/main/Roblox-Fashion-Show.exe"
 }
